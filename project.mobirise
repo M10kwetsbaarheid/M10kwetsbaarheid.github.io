@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Abel:400"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128-1.png",
     "noImageResize": "",
     "uniqCompNum": 29,
     "versionPublish": "4.8.7",
