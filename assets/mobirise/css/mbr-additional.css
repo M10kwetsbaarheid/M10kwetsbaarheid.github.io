@@ -13320,13 +13320,37 @@ body {
   }
 }
 .cid-rcjNRHSQtI {
-  padding-top: 105px;
+  padding-top: 75px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rcjNRHSQtI .mbr-section-subtitle {
   color: #767676;
   text-align: left;
+}
+.cid-reRqgRDpgS {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 45px;
+}
+.cid-reRqgRDpgS .image-block {
+  margin: auto;
+}
+.cid-reRqgRDpgS .mbr-figure {
+  margin: 0 auto;
+}
+.cid-reRqgRDpgS figcaption {
+  position: relative;
+}
+.cid-reRqgRDpgS figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-reRqgRDpgS .image-block {
+    width: 100% !important;
+  }
 }
 .cid-reLoy93F7g {
   padding-top: 15px;
